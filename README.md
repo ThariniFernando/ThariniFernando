@@ -1,4 +1,4 @@
-# Hi, I'm a Data Analyst & IT Graduate 👋
+# Hi, I'm a Data Analyst & Data Science Graduate 👋
 
 **BSc (Hons) Information Technology — Data Science Specialization**  
 Sri Lanka Institute of Information Technology (SLIIT) · Graduate
@@ -12,10 +12,10 @@ I'm a recent graduate with close to 2 years of hands-on experience turning data 
 
 ## 💼 Experience
 
-**Data Analyst** — MAS Holdings *(Current)*  
-**BSc (Hons) IT, Data Science Specialization** — SLIIT *(Graduate)*
+**Data Analyst** — MAS Holdings *(Current)* |Innodata Pvt Ltd 
+**BSc (Hons) Data Science Specialization** — SLIIT *(Graduate)*
 
-~2 years of industry experience in data analysis and business intelligence.
+2 years of industry experience in data analysis and business intelligence.
 
 ---
 
