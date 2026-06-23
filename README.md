@@ -12,7 +12,8 @@ I'm a recent graduate with close to 2 years of hands-on experience turning data 
 
 ## 💼 Experience
 
-**Data Analyst** — MAS Holdings *(Current)* |Innodata Pvt Ltd 
+**Data Analyst** — MAS Holdings *(Current)*  |Innodata Pvt Ltd  
+
 **BSc (Hons) Data Science Specialization** — SLIIT *(Graduate)*
 
 2 years of industry experience in data analysis and business intelligence.
